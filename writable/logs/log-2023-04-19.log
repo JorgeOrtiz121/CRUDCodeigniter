@@ -1,0 +1,87 @@
+CRITICAL - 2023-04-19 03:07:38 --> Undefined array key 0
+in APPPATH\Views\visualizar.php on line 3.
+ 1 APPPATH\Views\visualizar.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\xampp\\htdocs\\codigo\\app\\Views\\visualizar.php', 3)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\codigo\\app\\Views\\visualizar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('visualizar', [], true)
+ 5 APPPATH\Controllers\Home.php(42): view('visualizar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->show('2')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-19 03:08:58 --> Undefined array key 0
+in APPPATH\Views\visualizar.php on line 3.
+ 1 APPPATH\Views\visualizar.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\xampp\\htdocs\\codigo\\app\\Views\\visualizar.php', 3)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\codigo\\app\\Views\\visualizar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('visualizar', [], true)
+ 5 APPPATH\Controllers\Home.php(42): view('visualizar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->show('2')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-19 03:09:00 --> Undefined array key 0
+in APPPATH\Views\visualizar.php on line 3.
+ 1 APPPATH\Views\visualizar.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\xampp\\htdocs\\codigo\\app\\Views\\visualizar.php', 3)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\codigo\\app\\Views\\visualizar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('visualizar', [], true)
+ 5 APPPATH\Controllers\Home.php(42): view('visualizar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->show('2')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-19 03:14:27 --> Undefined array key 0
+in APPPATH\Views\visualizar.php on line 3.
+ 1 APPPATH\Views\visualizar.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\xampp\\htdocs\\codigo\\app\\Views\\visualizar.php', 3)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\codigo\\app\\Views\\visualizar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('visualizar', [], true)
+ 5 APPPATH\Controllers\Home.php(42): view('visualizar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->show('2')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-19 03:14:28 --> Undefined array key 0
+in APPPATH\Views\visualizar.php on line 3.
+ 1 APPPATH\Views\visualizar.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\xampp\\htdocs\\codigo\\app\\Views\\visualizar.php', 3)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\codigo\\app\\Views\\visualizar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('visualizar', [], true)
+ 5 APPPATH\Controllers\Home.php(42): view('visualizar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->show('2')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-19 03:14:29 --> Undefined array key 0
+in APPPATH\Views\visualizar.php on line 3.
+ 1 APPPATH\Views\visualizar.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\xampp\\htdocs\\codigo\\app\\Views\\visualizar.php', 3)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\codigo\\app\\Views\\visualizar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('visualizar', [], true)
+ 5 APPPATH\Controllers\Home.php(42): view('visualizar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->show('2')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-19 03:14:30 --> Undefined array key 0
+in APPPATH\Views\visualizar.php on line 3.
+ 1 APPPATH\Views\visualizar.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\xampp\\htdocs\\codigo\\app\\Views\\visualizar.php', 3)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\codigo\\app\\Views\\visualizar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('visualizar', [], true)
+ 5 APPPATH\Controllers\Home.php(42): view('visualizar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->show('2')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-19 03:26:22 --> Cannot use object of type stdClass as array
+in APPPATH\Views\visualizar.php on line 3.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('visualizar', [], true)
+ 4 APPPATH\Controllers\Home.php(42): view('visualizar', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->show('2')
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

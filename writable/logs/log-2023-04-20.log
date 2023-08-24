@@ -1,0 +1,11 @@
+CRITICAL - 2023-04-20 02:15:04 --> Attempt to read property "personasNombre" on array
+in APPPATH\Views\visualizar.php on line 17.
+ 1 APPPATH\Views\visualizar.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "personasNombre" on array', 'C:\\xampp\\htdocs\\codigo\\app\\Views\\visualizar.php', 17)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\codigo\\app\\Views\\visualizar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('visualizar', [], true)
+ 5 APPPATH\Controllers\Home.php(62): view('visualizar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->show('2')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
